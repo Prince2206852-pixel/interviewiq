@@ -4,6 +4,10 @@ spring:
     username: postgres
     password: postgres
     driver-class-name: org.postgresql.Driver
+  
+  flyway:
+    enabled: false
+
 
   jpa:
     hibernate:
@@ -18,3 +22,6 @@ spring:
   sql:
     init:
       mode: always
+
+     
+  
