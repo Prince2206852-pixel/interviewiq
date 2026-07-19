@@ -1,6 +1,6 @@
-package com.interviewiq.backend.entity;
+package com.prepnovis.backend.entity;
 
-import com.interviewiq.backend.common.BaseEntity;
+import com.prepnovis.backend.common.BaseEntity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

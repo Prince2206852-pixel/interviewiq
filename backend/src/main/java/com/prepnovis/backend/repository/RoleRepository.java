@@ -1,11 +1,11 @@
-package com.interviewiq.backend.repository;
+package com.prepnovis.backend.repository;
 
 import java.util.Optional;
 import java.util.UUID;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.interviewiq.backend.entity.Role;
+import com.prepnovis.backend.entity.Role;
 
 public interface RoleRepository extends JpaRepository<Role, UUID> {
 

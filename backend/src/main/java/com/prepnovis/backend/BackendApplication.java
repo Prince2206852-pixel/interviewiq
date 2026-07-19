@@ -1,4 +1,4 @@
-package com.interviewiq.backend;
+package com.prepnovis.backend;
 
 import java.util.TimeZone;
 

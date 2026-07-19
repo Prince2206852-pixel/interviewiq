@@ -1,4 +1,4 @@
-package com.interviewiq.backend;
+package com.prepnovis.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

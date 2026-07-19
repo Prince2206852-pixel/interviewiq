@@ -1,4 +1,4 @@
-package com.interviewiq.backend.common;
+package com.prepnovis.backend.common;
 
 import java.time.LocalDateTime;
 import java.util.UUID;
